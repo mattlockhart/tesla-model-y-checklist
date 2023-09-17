@@ -27,7 +27,7 @@ location and any personal details or requests are lost in the handoff.
 
 ### Locked
 
-- [ ] Vehicle VIN matches the assigned VIN
+[ ] Vehicle VIN matches the assigned VIN
 - [ ] Color is as ordered
 - [ ] Wheel style is as ordered (19" 'Gemini' Wheel, 20" Induction Wheel, etc).
 - [ ] A sleeve with *two* keys is provided
